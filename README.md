@@ -1,2 +1,2 @@
-# Temperature___controller__by__using__Arduino
-I developed a temperature controller by using arduino
+Designing__a__circuit_for_measuring_temperature
+I designed a circuit for measuring temperature
